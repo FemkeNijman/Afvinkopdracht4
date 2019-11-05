@@ -1,9 +1,10 @@
 def tijden(aantallaps):
+    """Deze functie vraagt hoe snel er is gerend en kijkt daarna of hij de snelste of langzaamste tijd is. Daarna wordt het gemiddelde uitgerekend.
+    
+    input:
+    aantallaps
+    output:
     """
-input: Vraagt hoe snel er is gerend
-
-output: print het gemiddelde, de snelste tijd, de langzaamste tijd en de tijd zelf
-"""
     #als de tijd minder is dan snelste wordt snelste erin verandert.
     #hetzelfde gebeurt bij langzamer, maar dan met hoger dan.
     #zo word gekeken welke tijden het snelst en het langzaamst zijn
