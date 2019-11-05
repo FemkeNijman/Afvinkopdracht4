@@ -1,9 +1,9 @@
 def product(getal):
-    """
-input: een gekozen getal
+    """Vermenigvuldigd het getal met zichzelf en elk getal wat daarvoor komt.
+    input: getal - int
 
-output:het getal vermenigvuldigd met hetzelfde getal en elk getal daar onder
-"""
+    output: print totaalaantal - int
+    """
     totaalaantal = 1
     for i in range(getal):
         totaalaantal*=i+1
