@@ -1,5 +1,5 @@
 def aantalbugs(aantaldagen):
-    """Deze functie kijkt per dag, voor het aantal dagen, hoeveel bugs er zijn gevonden door de user.
+    """deze functie kijkt per dag, voor het aantal dagen, hoeveel bugs er zijn gevonden door de user.
     
     input: 
     aantaldagen - int
