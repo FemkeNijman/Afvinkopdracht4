@@ -1,8 +1,8 @@
 def aantalbugs(aantaldagen):
-    """
-    input: Vraagt hoeveel bugs er zijn gezien
+    """Deze functie vraagt voor hoeveel dagen je wil kijken
+    input: aantaldagen - int
 
-    output: het totale aantal bugs
+    output: totaalaantal - int
 """
     totaalaantal = 0
     for i in range(aantaldagen):
