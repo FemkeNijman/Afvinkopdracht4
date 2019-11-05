@@ -1,5 +1,5 @@
 def product(getal):
-    """Vermenigvuldigd het getal met zichzelf en elk getal wat daarvoor komt.
+    """vermenigvuldigd het getal met zichzelf en elk getal wat daarvoor komt.
     
     input: 
     getal - int
